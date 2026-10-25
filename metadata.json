@@ -1,0 +1,7 @@
+{
+  "name": "OgojiPulse",
+  "description": "The digital command center for @ogojithecreator._ — uniting talking-head media feeds, AI prompt repositories, SQA engineering insights, community discussions, and premium optimization services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
